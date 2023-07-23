@@ -30,7 +30,7 @@ var array2 = [
     {
         Title: "Controllers",
         subtitle: "Your hands, in Virtual Reality",
-        image: `<img src="./images/Image21.svg">`,
+        image: `<img src="./images/image21.svg">`,
         description: "Designed from the ground up to enable natural interactions, high-fidelity hand presence, and long-term comfort.",
         image2: `<img src="./images/messIcon.svg">`,
         commentCoun: 349,
@@ -41,7 +41,7 @@ var array2 = [
     {
         Title: "Base Stations",
         subtitle: "Best-in-industry room-scale tracking",
-        image: `<img src="./images/Image3.jpg">`,
+        image: `<img src="./images/image3.jpg">`,
         description: "The highest quality tracking has gotten even better with Base Station 2.0, now with improved range, field of view, and scalability.",
         image2: `<img src="./images/messIcon.svg">`,
         commentCoun: 349,
